@@ -29,7 +29,7 @@ A single place for all the Markdown syntaxes I have learned so far. Sharing publ
 21. [Embed YouTube Video](#embed-youtube-video)
 22. [Mathematical Expressions](#mathematical-expressions-katexlatex)
 23. [DropDown](#dropdown)
-24. [Diagrams](#diagrams-mermaid)
+24. [Diagrams](#diagrams)
 25. [FootNote](#footnote)
 26. [Comments](#comments)
 
